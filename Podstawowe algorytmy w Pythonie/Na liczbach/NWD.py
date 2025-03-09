@@ -5,6 +5,7 @@ def NWD(a, b):
     return f'Największy wspólny dzielnik: {a}'
 
 a = int(input("Podaj pierwszą liczbę: "))
+
 b = int(input("Podaj drugą liczbę: "))
 
 print(NWD(a,b))
