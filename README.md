@@ -1,6 +1,6 @@
 # 🌟 Algorytmy Python 🌟
 
-**Podstawowe algorytmy w Pythonie przydatne do matury z informatyki**
+**Algorytmy w Pythonie (podstawa, rozszerzenie) przydatne do matury z informatyki**
 
 ![License](https://img.shields.io/github/license/patryksuwart/Algorytmy-Python?style=for-the-badge)  
 ![Stars](https://img.shields.io/github/stars/patryksuwart/Algorytmy-Python?style=for-the-badge)
@@ -9,7 +9,7 @@
 
 ## 📖 Opis projektu
 
-Repozytorium zawiera **podstawowe algorytmy** napisane w języku **Python**.
+Repozytorium zawiera **podstawowe i rozszerzeniowe algorytmy** napisane w języku **Python**.
 
 ---
 
