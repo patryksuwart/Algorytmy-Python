@@ -1,0 +1,10 @@
+a = int(input("Podaj pierwszą liczbę: "))
+b = int(input("Podaj drugą liczbę: "))
+
+print(f"Wynik dodawania: {a+b}")
+print(f"Wynik odejmowania: {a-b}")
+print(f"Wynik mnożenia: {a*b}")
+print(f"Wynik potęgowania: {a**b}")
+print(f"Wynik dzielenia: {a/b}")
+print(f"Wynik dzielenia twardego: {a//b}")
+print(f"Wynik reszty (modulo): {a%b}")
